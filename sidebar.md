@@ -5,6 +5,8 @@
   - [Scikit](/Scikit/README.md)
     - [Pandas](/Scikit/Pandas/README.md)
       
+    - [Scipy](/Scikit/Scipy/README.md)
+      
     - [Sklearn](/Scikit/Sklearn/README.md)
       
   - [TensorFlow](/TensorFlow/README.md)
