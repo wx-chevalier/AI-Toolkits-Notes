@@ -2,7 +2,7 @@
 
 ### 摘要
 
-本文翻译自 Madison May 发布的 [Python Deep Learning Frameworks Reviewed](https://indico.io/blog/python-deep-learning-frameworks-reviewed/)，经原作者授权由 InfoQ 中文站翻译并分享。本文对于常用的基于 Python 的深度学习框架 Theano、 Lasagne、 Blocks、 TensorFlow、Keras、MXNet、PyTorch 进行了介绍与优劣比较，有助于深度学习入门者对于这些框架形成初步的认识。
+本文翻译自 Madison May 发布的 [Python Deep Learning Frameworks Reviewed](https://indico.io/blog/python-deep-learning-frameworks-reviewed/)，经原作者授权由 InfoQ 中文站翻译并分享。本文对于常用的基于 Python 的深度学习框架 Theano、Lasagne、Blocks、TensorFlow、Keras、MXNet、PyTorch 进行了介绍与优劣比较，有助于深度学习入门者对于这些框架形成初步的认识。
 
 ### 正文
 

@@ -18,9 +18,6 @@
       
     - [Jupyter](/开发环境/Jupyter/README.md)
       
-  - [数据集](/数据集/README.md)
-    - [文本](/数据集/文本/README.md)
-      - [常用数据集介绍](/数据集/文本/常用数据集介绍.md)
   - 机器学习平台
     - API
       - [52 Useful Machine Learning & Prediction APIs](/机器学习平台/API/52%20Useful%20Machine%20Learning%20&%20Prediction%20APIs.md)
