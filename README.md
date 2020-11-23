@@ -1,19 +1,25 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![license: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)][license-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/AI-Series">
+  <a href="https://github.com/wx-chevalier/AI-Toolkits-Series">
     <img src="header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/AI-Series"><strong>AI Series»</strong></a>
+    <a href="https://ng-tech.icu/AI-Toolkits-Series"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
-    <a href="https://github.com/wx-chevalier/ai-notebooks">Note Books</a>
+    <a href="https://github.com/wx-chevalier/Awesome-CheatSheets">速览手册</a>
     ·
-    <a href="https://github.com/wx-chevalier/ai-models">Models</a>
+    <a href="https://github.com/wx-chevalier">代码实践</a>
     ·
-    <a href="https://github.com/topics/wx-ai-kits">Projects</a>
+    <a href="https://github.com/wx-chevalier/Awesome-Lists">参考资料</a>
 
   </p>
 </p>
