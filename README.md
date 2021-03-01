@@ -30,7 +30,7 @@
 
 本篇是 [AI Series](https://github.com/wx-chevalier/AI-Series) 系列的一部分，大量交互实践的内容存放在 [AIDL-Workbench](https://github.com/wx-chevalier/AIDL-Workbench) 仓库中。
 
-# Nav | 导读
+# Nav | 关联导航
 
 # About | 关于
 
