@@ -36,9 +36,9 @@ conda create - -name bunnies python = 3 astroid babel
 conda info - -envs
 conda environments:
 
-snowflakes          * /home/username/miniconda/envs/snowflakes
-bunnies               / home/username/miniconda/envs/bunnies
-root                  / home/username/miniconda
+snowflakes          * /home/username/miniconda/envs/snowflakes
+bunnies               / home/username/miniconda/envs/bunnies
+root                  / home/username/miniconda
 ```
 
 当我们切换到某个具体的环境后，可以安装依赖包了:
