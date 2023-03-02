@@ -293,7 +293,7 @@ for i in range(20):
   time.sleep(0.5)
 ```
 
-![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202212251523660.png)
+![](https://assets.ng-tech.icu/item/202212251523660.png)
 
 TabBar 提供了页签化的布局：
 
