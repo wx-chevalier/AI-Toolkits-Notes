@@ -293,7 +293,7 @@ for i in range(20):
   time.sleep(0.5)
 ```
 
-![](https://assets.ng-tech.icu/item/202212251523660.png)
+![](https://assets.ng-tech.icu/item/202304162020027.png)
 
 TabBar 提供了页签化的布局：
 
@@ -328,7 +328,7 @@ for p, _ in zip(positions, widgets.Grid(1, 4)):
   create_tab(p)
 ```
 
-![](https://i.postimg.cc/xTb7JjVf/image.png)
+![](https://assets.ng-tech.icu/item/202304162020055.png)
 
 ## 表单
 
@@ -346,4 +346,4 @@ print(dropdown)
 print(text_and_dropdown)
 ```
 
-![](https://i.postimg.cc/4x6SP83j/image.png)
+![](https://assets.ng-tech.icu/item/202304162020096.png)
