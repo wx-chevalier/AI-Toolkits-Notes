@@ -7,12 +7,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/AI-Toolkits-Series">
+  <a href="https://github.com/wx-chevalier/AI-Toolkits-Notes">
     <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://ng-tech.icu/books/AI-Toolkits-Series"><strong>在线阅读 >> </strong></a>
+    <a href="https://ng-tech.icu/books/AI-Toolkits-Notes"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier">代码案例</a>
@@ -26,7 +26,7 @@
 
 # AI Toolkits Series
 
-本篇是 [AI Series](https://github.com/wx-chevalier/AI-Series) 系列的一部分，大量交互实践的内容存放在 [AIDL-Workbench](https://github.com/wx-chevalier/AIDL-Workbench) 仓库中。
+本篇是 [AI Series](https://github.com/wx-chevalier/AI-Notes) 系列的一部分，大量交互实践的内容存放在 [AIDL-Workbench](https://github.com/wx-chevalier/AIDL-Workbench) 仓库中。
 
 # Nav | 关联导航
 
