@@ -25,17 +25,20 @@
       
     - 7.2 Streamlit [1]
       - [7.2.1 Streamlit](/06.可视化/Streamlit/Streamlit.md)
-  - 8 07.机器学习平台 [6]
+  - 8 10.机器学习平台 [6]
     - 8.1 API [1]
-      - [8.1.1 52 Useful Machine Learning & Prediction APIs](/07.机器学习平台/API/52%20Useful%20Machine%20Learning%20&%20Prediction%20APIs.md)
-    - [8.2 Angel](/07.机器学习平台/Angel.md)
-    - [8.3 DuerOS](/07.机器学习平台/DuerOS/README.md)
+      - [8.1.1 52 Useful Machine Learning & Prediction APIs](/10.机器学习平台/API/52%20Useful%20Machine%20Learning%20&%20Prediction%20APIs.md)
+    - [8.2 Angel](/10.机器学习平台/Angel.md)
+    - [8.3 DuerOS](/10.机器学习平台/DuerOS/README.md)
       
-    - [8.4 算法系统 [2]](/07.机器学习平台/算法系统/README.md)
-      - [8.4.1 在线算法](/07.机器学习平台/算法系统/在线算法.md)
-      - [8.4.2 离线算法](/07.机器学习平台/算法系统/离线算法.md)
+    - [8.4 算法系统 [2]](/10.机器学习平台/算法系统/README.md)
+      - [8.4.1 在线算法](/10.机器学习平台/算法系统/在线算法.md)
+      - [8.4.2 离线算法](/10.机器学习平台/算法系统/离线算法.md)
     - 8.5 系统设计 [1]
-      - [8.5.1 Python 深度学习框架回顾](/07.机器学习平台/系统设计/Python%20深度学习框架回顾.md)
-    - [8.6 联邦学习](/07.机器学习平台/联邦学习/README.md)
+      - [8.5.1 Python 深度学习框架回顾](/10.机器学习平台/系统设计/Python%20深度学习框架回顾.md)
+    - [8.6 联邦学习](/10.机器学习平台/联邦学习/README.md)
       
-  - [9 INTRODUCTION](/INTRODUCTION.md)
+  - 9 11.向量数据库 [1]
+    - 9.1 99.参考资料 [1]
+      - [9.1.1 What is a Vector Database?](/11.向量数据库/99.参考资料/2023-What%20is%20a%20Vector%20Database?.md)
+  - [10 INTRODUCTION](/INTRODUCTION.md)
