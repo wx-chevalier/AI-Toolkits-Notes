@@ -38,7 +38,4 @@
       - [8.5.1 Python 深度学习框架回顾](/10.机器学习平台/系统设计/Python%20深度学习框架回顾.md)
     - [8.6 联邦学习](/10.机器学习平台/联邦学习/README.md)
       
-  - 9 11.向量数据库 [1]
-    - 9.1 99.参考资料 [1]
-      - [9.1.1 What is a Vector Database?](/11.向量数据库/99.参考资料/2023-What%20is%20a%20Vector%20Database?.md)
-  - [10 INTRODUCTION](/INTRODUCTION.md)
+  - [9 INTRODUCTION](/INTRODUCTION.md)
