@@ -1,5 +1,5 @@
-  - 1 00.AI 工程化 [1]
-    - [1.1 Data centric AI](/00.AI%20工程化/Data-centric%20AI.md)
+  - 1 00~AI 工程化 [1]
+    - [1.1 Data centric AI](/00~AI%20工程化/Data-centric%20AI.md)
   - 2 01.开发环境 [3]
     - [2.1 Colab](/01.开发环境/Colab/README.md)
       
