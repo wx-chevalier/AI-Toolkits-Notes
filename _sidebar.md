@@ -18,7 +18,7 @@
     
   - [5 04.PyTorch](/04.PyTorch/README.md)
     
-  - [6 05.MXNet](/05.MXNet/README.md)
+  - [6 05~MXNet](/05~MXNet/README.md)
     
   - 7 06.可视化 [2]
     - [7.1 Dash](/06.可视化/Dash/README.md)
