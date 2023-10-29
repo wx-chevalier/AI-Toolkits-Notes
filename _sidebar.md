@@ -1,11 +1,14 @@
   - 1 00~AI 工程化 [1]
     - [1.1 Data centric AI](/00~AI%20工程化/Data-centric%20AI.md)
-  - 2 01~开发环境 [3]
+  - 2 01~开发环境 [4]
     - [2.1 Colab](/01~开发环境/Colab/README.md)
       
     - [2.2 Conda](/01~开发环境/Conda/README.md)
       
-    - [2.3 Jupyter](/01~开发环境/Jupyter/README.md)
+    - 2.3 Cuda [1]
+      - 2.3.1 99~参考资料 [1]
+        - [2.3.1.1 2022~Windows 搭建 PyTorch & CUDA 环境](/01~开发环境/Cuda/99~参考资料/2022~Windows%20搭建%20PyTorch%20&%20CUDA%20环境.md)
+    - [2.4 Jupyter](/01~开发环境/Jupyter/README.md)
       
   - [3 02.Scikit [3]](/02.Scikit/README.md)
     - [3.1 Pandas](/02.Scikit/Pandas/README.md)
