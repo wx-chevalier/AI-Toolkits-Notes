@@ -482,9 +482,6 @@ problem.check()
 
 ## Puzzle 8 - Shared
 
-Implement a kernel that adds 10 to each position of `a` and stores it in `out`.
-You have fewer threads per block than the size of `a`.
-
 **Warning**: Each block can only have a *constant* amount of shared
  memory that threads in that block can read and write to. This needs
  to be a literal python constant not a variable. After writing to
